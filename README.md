@@ -1,5 +1,7 @@
 # Practical MLOps with GitHub and Azure ML
 
+## Edited by Diogo on cloudshell
+
 This repository provides the supporting code for my presentation entitled [Practical MLOps with GitHub and Azure ML](https://www.catallaxyservices.com/presentations/practical-mlops-with-github-and-azure-ml/).
 
 ## Generating Data
